@@ -1,8 +1,3 @@
-"""
-Create a simple game of “Rock, Paper, Scissors” where the computer
-randomly generates value and asks the user to input their selection. The result
-should show whether the user wins or loses, or if it is a draw.
-"""
 import random
 score=0
 print("##### ROCK, PAPER, SCISSORS! #####")
